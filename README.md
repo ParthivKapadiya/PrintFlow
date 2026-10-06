@@ -1,6 +1,6 @@
-# printflow
+# PrintFlow
 
-A new Flutter project.
+Flutter mobile app.
 
 ## Getting Started
 
